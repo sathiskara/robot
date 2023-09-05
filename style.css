@@ -3,8 +3,11 @@ body {
   }
   body{
     background: url(forest.avif);
-background-attachment: scroll;
-      background-size:100%;
+     background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: 100%;
+ 
+      
  
   }
   
